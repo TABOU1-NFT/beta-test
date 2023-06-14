@@ -97,19 +97,19 @@ Below, you will find the step-by-step instructions for your beta test. Note that
 
 
 
-1. Visit website
+### 1. Visit website
 
 The beta test website is located at the following address : [https://test.tabou1.com](https://test.tabou1.com)
 
 
 
-2. Browse main drop
+### 2. Browse main drop
 
 You will find the main drop on the home page (you will also find it on the shop page).
 
 
 
-3. Purchase Green, Red or Gold edition
+### 3. Purchase Green, Red or Gold edition
 
 The drop offers 3 editions: red, green and gold. Each edition offers different perks. Buy at least one of them. 
 
@@ -125,7 +125,7 @@ And then choose your purchase option according to your preferred method (refer t
 
 
 
-4. View your purchases in “My Collection” page
+### 4. View your purchases in “My Collection” page
 
 Click on _My Collection _button in the menu. 
 
@@ -137,7 +137,7 @@ It will take roughly one minute before your purchases appear in the _My Collecti
 
 
 
-5. Unwrap all purchases
+### 5. Unwrap all purchases
 
 Go to _My loot _section.
 
@@ -153,7 +153,7 @@ Click on _unwrap_ on the NFTs needing it.
 
 
 
-6. Check your compilations 
+### 6. Check your compilations 
 
 Go to _my compilation_ section.
 
@@ -165,13 +165,13 @@ Go to _my compilation_ section.
 
 
 
-7. Buy missing tracks
+### 7. Buy missing tracks
 
 Look for a compilation which is not complete. Buy all missing tracks, the purchase option appears directly on the track missing.
 
 
 
-8. Redeem a full collection
+### 8. Redeem a full collection
 
 When you complete a compilation, the following message will appear: 
 
@@ -187,7 +187,7 @@ Simply click on the button Redeem full compilation.
 
 
 
-9. Answer the survey
+### 9. Answer the survey
 
 OK, so now that you’ve gone through the entire series of steps, it is time to take a few more minutes and answer the short survey that will help us improve the customer experience.
 
@@ -195,7 +195,7 @@ You can find the survey here.
 
 
 
-10. Grab your rewards
+### 10. Grab your rewards
 
 We want to thank you and show our appreciation for your help in making TABOU1 better
 
