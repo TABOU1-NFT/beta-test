@@ -7,9 +7,38 @@ In this message, we will guide you through the steps to test the features of our
 Are you ready? Let's get started!
 
 
+## Step by step instructions
+
+Below, you will find the step-by-step instructions for your beta test. Note that each section is further detailed below if you need guidance.
+
+
+1. Visit [website](https://test.tabou1.com)
+2. Browse main drop
+3. Purchase Green, Red, or Gold edition
+4. View your purchases in _My Collection_ page
+5. Unwrap all items
+6. Check your compilations 
+7. Buy missing tracks
+8. Redeem a full compilation
+9. Answer the [survey](https://forms.gle/zmJ6dVWcYbJ2MV4d7)
+10. Grab your bonus
+
+> ⚠️ See last paragraphs for detailed steps
+
+### Important links 
+
+The beta test :
+#### [https://test.tabou1.com](https://test.tabou1.com)
+
+The Survey (to fill after the test) :
+#### [https://forms.gle/zmJ6dVWcYbJ2MV4d7](https://forms.gle/zmJ6dVWcYbJ2MV4d7)
+
+
+
 ## Features tested
 
 In this beta test, we are going to ask you to test and evaluate the following features: 
+
 
 
 
@@ -45,12 +74,13 @@ You can choose the payment method you prefer.
 
 This is the easiest way to beta test. Just use the fake credit card information below:
 
+![image](https://github.com/TABOU1-NFT/beta-test/assets/75084558/ec44da3a-f880-4c9b-b322-f2562cb48a34)
+![image](https://github.com/TABOU1-NFT/beta-test/assets/75084558/4e1289a5-696f-4309-b66a-c3542bbdedc3)
 
-![image](https://github.com/TABOU1-NFT/beta-test/assets/75084558/99387761-0eca-4bd2-a6b8-7eefb8a2ccaa)
-![image](https://github.com/TABOU1-NFT/beta-test/assets/75084558/2af611bd-8ebc-4d56-9e97-f11ba6fd5377)
 
-1. Enter the following credit card number: 646464646464646
-2. Fill in the remaining credit card information with random values (expiry date, CVV, etc.)
+1. Enter the following credit card number: 4242 4242 4242 4242
+2. Enter the following expiry date : 12/34
+3. Fill in the remaining credit card information with random values (full name and CVV)
 
 
 ### Choosing MetaMask
@@ -75,25 +105,8 @@ This step requires adding the MetaMask browser extension. \
 Now, you are all set!
 
 
-## Step by step instructions
 
-Below, you will find the step-by-step instructions for your beta test. Note that each section is further detailed below if you need guidance.
-
-
-
-1. Visit website
-2. Browse main drop
-3. Purchase Green, Red, or Gold edition
-4. View your purchases in _My Collection_ page
-5. Unwrap all items
-6. Check your compilations 
-7. Buy missing tracks
-8. Redeem a full compilation
-9. Answer the survey - link here
-10. Grab your bonus
-
-
-## Details
+## Detailed steps
 
 
 
@@ -175,7 +188,7 @@ Look for a compilation which is not complete. Buy all missing tracks, the purcha
 
 When you complete a compilation, the following message will appear: 
 
-“CONGRATULATIONS ! You successfully completed the [Name of the compilation] and got the Gold Edition Pack”
+“CONGRATULATIONS ! You successfully completed the /Name of the compilation/ and got the Gold Edition Pack”
 
 Simply click on the button Redeem full compilation.
 
