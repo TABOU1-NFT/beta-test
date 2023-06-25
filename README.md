@@ -13,7 +13,7 @@ Below, you will find the step-by-step instructions for your beta test. Note that
 
 
 1. Visit [website](https://test.tabou1.com)
-2. Browse main drop
+2. Scroll down and browse main drop
 3. Purchase Green, Red, or Gold edition
 4. View your purchases in _My Collection_ page
 5. Unwrap all items
