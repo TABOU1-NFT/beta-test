@@ -94,13 +94,21 @@ This step requires adding the MetaMask browser extension. \
 1. Install the extension on your browser, available [here](https://metamask.io/download/).
 2. Connect MetaMask to the Polygon blockchain.
 
-    To connect MetaMask to Polygon, go to “Networks” and “Add network.” In the window that appears, enter the relevant data regarding the Polygon blockchain (GB ca veut dire quoi? Peut on etre + precis?).
+    To connect MetaMask to Polygon, go to “Networks” and “Add network.” In the window that appears, enter the relevant data regarding the Polygon blockchain.
 
 ![image](https://github.com/TABOU1-NFT/beta-test/assets/75084558/e4d47056-9558-4b49-8bb8-9125b1f48374)
 
 
 
-3. Get 0.1 matics (this is the simulated currency we will be using for this step). Click on this link, it is free for this beta test.
+3.Choose the Mumbai network and copy the wallet address.
+
+![image](https://github.com/TABOU1-NFT/beta-test/assets/75084558/1ff2bf1f-22c3-42e6-b1b1-3acb00354176)
+
+
+4.  Click on this link: [https://faucet.polygon.technology/](https://faucet.polygon.technology/) Pase your wallet address in the form dedicated and get 0.1 matics (this is the simulated currency we will be using for this step). Again it is free for this beta test.
+
+![image](https://github.com/TABOU1-NFT/beta-test/assets/75084558/28b3e712-85cd-4f3e-a20f-945f0bb602e6)
+
 
 Now, you are all set!
 
