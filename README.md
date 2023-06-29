@@ -1,5 +1,7 @@
 # Welcome to the TABOU1 Beta Test!
 
+First and foremost, we would like to stress that everything in the betatest is FREE and doesn't require REAL MONEY.
+
 Thank you for participating in the beta test of our music platform. We appreciate your help in ensuring a smooth user experience. 
 
 In this message, we will guide you through the steps to test the features of our service and access your rewards once you have completed the “test drive”
@@ -58,14 +60,14 @@ In this beta test, we are going to ask you to test and evaluate the following fe
 > However, the rewards you will receive for testing are REAL and will be accessible when the TABOU1 platform is launched
 
 
-## Credit card or MetaMask
+## Fake Credit card or MetaMask with testcoins
 
 Our platform offers two purchase possibilities: 
 
 
 
-1. By using a Credit Card
-2. By using coins from a MetaMask wallet 
+1. By using a simulated Credit Card
+2. By using testcoins from a MetaMask wallet 
 
 You can choose the payment method you prefer.
 
